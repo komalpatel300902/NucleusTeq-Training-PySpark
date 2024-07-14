@@ -1,0 +1,12 @@
+CharacterID,Name,Type,Description
+1,Raven,Crow,A clever and resourceful crow.
+2,Shadow,Cat,A stealthy black thief.
+3,Tud,Spherical Creature,A desert-dwelling creature with thorn-like hair.
+4,Whisper,Spirit,A mysterious and ethereal spirit.
+5,,Crow,Missing name field
+6,Shadow,Cat,"A thief, who is",Naman
+7,Tud,Spherical Creature,"Extra comma in description, field"
+8,Whisper,Spirit,"A spirit with a broken line"
+9,InvalidID,Raven,Crow,Non-integer ID
+10,Shadow,,Empty type field
+11,Tud,Spherical Creature,A creature with "quotes" in description
