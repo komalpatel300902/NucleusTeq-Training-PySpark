@@ -1,0 +1,11 @@
+name,age,emp_type,gender,salary
+Alice,30,Full-time,Female,60000
+Bob,25,Part-time,Male,30000
+Charlie,35,Contract,Male,70000
+Diana,28,Full-time,Female,65000
+Edward,40,Full-time,Male,80000
+Fiona,32,Part-time,Female,35000
+George,45,Contract,Male,75000
+Helen,27,Full-time,Female,62000
+Ian,29,Part-time,Male,32000
+Julia,33,Contract,Female,68000

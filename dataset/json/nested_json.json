@@ -1,0 +1,66 @@
+{
+    "employees": [
+      {
+        "name": "Alice",
+        "age": 30,
+        "department": "Engineering",
+        "projects": [
+          {
+            "projectName": "Project A",
+            "status": "completed",
+            "deadline": "2023-12-01"
+          },
+          {
+            "projectName": "Project B",
+            "status": "in progress",
+            "deadline": "2024-05-15"
+          }
+        ]
+      },
+      {
+        "name": "Bob",
+        "age": 25,
+        "department": "Marketing",
+        "projects": [
+          {
+            "projectName": "Project C",
+            "status": "completed",
+            "deadline": "2023-11-20"
+          }
+        ]
+      },
+      {
+        "name": "Charlie",
+        "age": 35,
+        "department": "Sales",
+        "projects": [
+          {
+            "projectName": "Project D",
+            "status": "not started",
+            "deadline": "2024-06-30"
+          },
+          {
+            "projectName": "Project E",
+            "status": "in progress",
+            "deadline": "2024-02-28"
+          }
+        ]
+      }
+    ],
+    "company": {
+      "name": "Tech Solutions",
+      "location": "New York",
+      "established": 2010,
+      "branches": [
+        {
+          "branchName": "San Francisco",
+          "employeesCount": 50
+        },
+        {
+          "branchName": "Austin",
+          "employeesCount": 30
+        }
+      ]
+    }
+  }
+  
